@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Movie API with Graphql",
   "main": "index.js",
-  "repository": "https://github.com/DeveloperKHJ/movieql",
+  "repository": "https://github.com/DeveloperKHJ/movie-ql",
   "author": "Kim hyunjin<dbtmd1007gh1@gmail.com>",
   "license": "MIT"
 }
