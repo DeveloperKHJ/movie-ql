@@ -1,6 +1,9 @@
+import { getMovies } from "./db.js"
+
+
 const resolvers = {
     Query: {
-        name:()=> "KHJ"
+        movies:(_, {limit, rating}) => getMovies(limit, rating)
     }
 };
 
